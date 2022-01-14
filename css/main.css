@@ -1,0 +1,21 @@
+.card-2{
+    align-items: center;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 5px;
+}
+.card-2>img{
+    width: 100px;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+width: 300px !important;
+margin: 50px 35px;
+}
+label{
+    font-size: 24px;
+}
